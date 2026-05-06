@@ -63,8 +63,3 @@ laravel-minikube/
 └── artisan                  # Artisan CLI
 
 ---
-
-<div align="center">
-  <p>Made with ❤️ for Kubernetes & Laravel</p>
-  <p>⭐ Jika berguna, jangan lupa star repository ini!</p>
-</div>
